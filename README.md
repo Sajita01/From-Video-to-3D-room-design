@@ -1,7 +1,5 @@
 # From Video to 3D: Intelligent Furniture Placement & Vastu-Based Room Design
 
-> Final Year Capstone Project | Tribhuvan University — Himalaya College of Engineering | March 2026
-
 ## Project Overview
 An end-to-end AI system that takes a short room video as input, 
 reconstructs the room in 3D, detects existing furniture, and 
