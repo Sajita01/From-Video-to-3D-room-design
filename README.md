@@ -8,17 +8,6 @@ reconstructs the room in 3D, detects existing furniture, and
 recommends optimized furniture placement based on Vastu Shastra 
 principles using a Genetic Algorithm.
 
-## Team Members
-- Sajita Khadka (HCE078BCT034)
-- Bidhya Bhattarai (HCE078BCT010)
-- Biplav Chaudhary (HCE078BCT013)
-- Punam Bashyal (HCE078BCT028)
-
-**Supervisor:** Er. Bibat Thokar  
-**Department:** Electronics & Computer Engineering, HCOE
-
----
-
 ## System Architecture
 The system operates in two phases:
 
@@ -143,10 +132,3 @@ python vastu_pipeline.py --video your_room_video.mp4
 - Full Structured3D dataset training (196,000 images) 
   would improve segmentation accuracy
 
----
-
-## Supervisor & Institution
-**Supervisor:** Er. Bibat Thokar  
-**Institution:** Himalaya College of Engineering (HCOE),  
-Tribhuvan University, Lalitpur, Nepal  
-**Submitted:** March 2026
